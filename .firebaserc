@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angularfirebase-59896": {
+      "hosting": {
+        "angular-firebase": [
+          "angularfirebase-59896"
+        ]
+      }
+    }
+  }
+}
